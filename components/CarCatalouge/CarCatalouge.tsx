@@ -51,4 +51,3 @@ const CarCatalouge = async ({ searchParams }: CatalougeProps) => {
 
 export default CarCatalouge;
 
-// eeeeeee
